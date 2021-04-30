@@ -10,5 +10,4 @@ After installing dependencies;
 
 ```
 $ python sudoku_Solver.py
-
 ```
