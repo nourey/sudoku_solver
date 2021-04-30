@@ -10,4 +10,5 @@ After installing dependencies;
 
 ```
 $ python sudoku_Solver.py
+$ Path of the image? /home/usr/sudoku.jpg
 ```
