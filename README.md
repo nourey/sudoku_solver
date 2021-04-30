@@ -1,7 +1,6 @@
 # sudoku_solver
 
-This script solves Sudoku in given image.
-Using Tesseract-OCR v4.1.1
+This script solves Sudoku in given image with Tesseract-OCR v4.1.1
 
 Using **digits** as language.
 
