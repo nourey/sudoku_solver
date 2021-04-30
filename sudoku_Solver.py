@@ -133,7 +133,7 @@ def get_final_frame(image):
     return src
 
 def get_digits(image):
-    custom_config = r'--psm 10 --oem 1 --tessdata-dir /home/tesseract-4.1.1/tessdata/ -c tessedit_char_whitelist=0123456789'
+    custom_config = r'--psm 10 --oem 1 --tessdata-dir /path_to/tessdata/ -c tessedit_char_whitelist=0123456789'
 
     number_list = ["1","2","3","4","5","6","7","8","9"]
 
