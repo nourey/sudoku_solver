@@ -8,5 +8,7 @@ To download digits.traineddata check: https://github.com/Shreeshrii/tessdata_shr
 ## Usage
 After installing dependencies;
 
-```$ python sudoku_Solver.py
+```
+$ python sudoku_Solver.py
+
 ```
